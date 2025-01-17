@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #3937FA;
+}
+
+.image {
+    width: 70px;
+}
+
+.dots-image {
+    margin-right: 200px;
+    // margin-top: 60px;
+}
+
+.share-image {
+    margin-left: 200px;
+    margin-top: 60px;
+}
+
+#input-box {
+  fill: #3937FA;
+  margin-left: 400px;
+}
